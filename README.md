@@ -1,2 +1,2 @@
 ﻿# threejs-shadow
- published at netlify https://stellar-jelly-c2cbc2.netlify.app/
+ published at https://threejs-shadow-practice.netlify.app/
